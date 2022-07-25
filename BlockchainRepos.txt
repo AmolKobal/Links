@@ -1,0 +1,14 @@
+1)A great repo based on the freecodecamp tutorial, it gives a complete explanation from basic to the end.
+https://lnkd.in/g3N6naht
+
+2)One of the most popular repositories in web3 space is free-Web3-resources by Francesco Ciulla. It has tons of free resources to learn the basic of blockchain development and Ethereum development. This repository has a website, you can visit here.
+https://lnkd.in/gKrQ9DKV
+
+3)One of the leading organizations that are promoting and helping developers to kickstart in web3 is Web3 Foundation. They have a grant program for projects that enhance the web3 ecosystem.
+https://lnkd.in/g7APYkgB
+
+4)There are various branches of web3, one such is Decentralized Finance(Defi). This repository has a Defi developer roadmap and resources to kickstart in the Defi world. It also includes a list of the best tools for DApps, development resources, and lifehacks
+https://lnkd.in/gEb8d4wE
+
+5)I can say smart contracts are the backbone of the web3. They are computer programs that are non-modifiable once deployed, and automatically executed when the criteria defined in it meet. It has resources not only for solidity smart contract development but also blockchain.
+https://lnkd.in/ga6p5gXm
